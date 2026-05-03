@@ -7,7 +7,11 @@
       "video_1080": "",
       "subtitle_tr": "",
       "subtitle_en": "",
-      "added_at": "2026-04-10T19:23:31.073Z"
+      "added_at": "2026-04-10T19:23:31.073Z",
+      "title": "Hızlı ve Öfkeli",
+      "poster_path": "/zA9pwvMF3oebsypZkDVHBmlzxwf.jpg",
+      "year": "2001",
+      "vote_average": 7.003
     },
     {
       "tmdb_id": 1726,
@@ -16,7 +20,11 @@
       "video_1080": "",
       "subtitle_tr": "",
       "subtitle_en": "",
-      "added_at": "2026-04-11T15:07:40.914Z"
+      "added_at": "2026-04-11T15:07:40.914Z",
+      "title": "Iron Man",
+      "poster_path": "/3o2TSP446Scw0d0m6qXlR8MYFO9.jpg",
+      "year": "2008",
+      "vote_average": 7.657
     },
     {
       "tmdb_id": 584,
@@ -25,7 +33,11 @@
       "video_1080": "",
       "subtitle_tr": "https://s1.imgz.me/m4/EzSmqP4lYxM1pzyiqKZhZwNjZl5PoUIlLKxhZGN4ZUNhESIOGN/tur-1-default.vtt",
       "subtitle_en": "",
-      "added_at": "2026-04-12T12:46:04.232Z"
+      "added_at": "2026-04-12T12:46:04.232Z",
+      "title": "Daha Hızlı Daha Öfkeli",
+      "poster_path": "/y2lQw2jAEFTVVvxMHQPbmRAJ2pP.jpg",
+      "year": "2003",
+      "vote_average": 6.518
     },
     {
       "tmdb_id": 1858,
@@ -34,7 +46,11 @@
       "video_1080": "",
       "subtitle_tr": "",
       "subtitle_en": "",
-      "added_at": "2026-04-14T14:38:41.790Z"
+      "added_at": "2026-04-14T14:38:41.790Z",
+      "title": "Transformers",
+      "poster_path": "/6yWu6GC2kbfh9nEzyh1VFA0SyNY.jpg",
+      "year": "2007",
+      "vote_average": 6.823
     }
   ]
 }
