@@ -15,7 +15,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:44:41.980Z",
-            "updated_at": "2026-08-21T17:23:05.120Z"
+            "updated_at": "2026-08-21T17:30:32.718Z"
           },
           {
             "episode": 2,
@@ -24,7 +24,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:47:41.228Z",
-            "updated_at": "2026-08-21T17:23:05.120Z"
+            "updated_at": "2026-08-21T17:30:32.718Z"
           },
           {
             "episode": 3,
@@ -33,11 +33,19 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-21T16:59:04.754Z",
-            "updated_at": "2026-08-21T17:23:05.120Z"
+            "updated_at": "2026-08-21T17:30:32.718Z"
+          },
+          {
+            "episode": 4,
+            "name": "Mabel'i Sarsan El",
+            "video": "https://vs22.photomag.biz/v/Gravity.Falls.S01E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-21T17:30:32.718Z"
           }
         ]
       },
-      "updated_at": "2026-08-21T17:23:05.120Z"
+      "updated_at": "2026-08-21T17:30:32.718Z"
     }
   ]
 }
