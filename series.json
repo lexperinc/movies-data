@@ -5,7 +5,7 @@
       "name": "Esrarengiz Kasaba",
       "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
       "year": "2012",
-      "vote_average": 8.6,
+      "vote_average": 8.619,
       "seasons": {
         "s1": [
           {
@@ -14,7 +14,8 @@
             "video": "https://vs21.photomag.biz/v/Gravity.Falls.S01E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-05-03T21:44:41.980Z"
+            "added_at": "2026-05-03T21:44:41.980Z",
+            "updated_at": "2026-08-21T16:59:04.754Z"
           },
           {
             "episode": 2,
@@ -22,10 +23,20 @@
             "video": "https://vs21.photomag.biz/v/Gravity.Falls.S01E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-05-03T21:47:41.228Z"
+            "added_at": "2026-05-03T21:47:41.228Z",
+            "updated_at": "2026-08-21T16:59:04.754Z"
+          },
+          {
+            "episode": 3,
+            "name": "Kafa Avcıları",
+            "video": "https://vod02.cdn.web.tv/89/z4/89z4fy4mm1q_,240,360,480,720,1080,.mp4.urlset/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-21T16:59:04.754Z"
           }
         ]
-      }
+      },
+      "updated_at": "2026-08-21T16:59:04.754Z"
     }
   ]
 }
