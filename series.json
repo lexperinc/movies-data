@@ -82,7 +82,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-22T19:40:55.112Z",
-            "updated_at": "2026-08-22T19:41:52.549Z"
+            "updated_at": "2026-08-22T19:43:26.874Z"
           },
           {
             "episode": 2,
@@ -94,12 +94,25 @@
             "video": "https://srv12.cdnimages889.shop/hls/moonknight-s01e02-dual-mo41fvp08lb2mp4-uqhQXPDmSkY.mp4/txt/master.txt",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-22T19:41:52.549Z"
+            "added_at": "2026-08-22T19:41:52.549Z",
+            "updated_at": "2026-08-22T19:43:26.874Z"
+          },
+          {
+            "episode": 3,
+            "name": "Cana Yakın",
+            "still_path": "/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg",
+            "air_date": "2022-04-13",
+            "runtime": 53,
+            "overview": "Marc ön planda ve Harrow Ammit'in mezarının yakınındayken, Marc'ın Kahire'ye gitmesi ve Layla ve Steven'la olan farklılıklarını görevlerini tehlikeye atmadan bir kenara bırakması gerekiyor.",
+            "video": "https://srv12.cdnimages2483.shop/hls/moonknight-s01e03-dual-s8ri2decpw65mp4-Rp3MfldMhDx.mp4/txt/master.txt",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-22T19:43:26.874Z"
           }
         ]
       },
       "added_at": "2026-08-22T19:40:55.112Z",
-      "updated_at": "2026-08-22T19:41:52.549Z"
+      "updated_at": "2026-08-22T19:43:26.874Z"
     }
   ]
 }
