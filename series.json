@@ -81,12 +81,25 @@
             "video": "https://srv12.cdnimages1767.shop/hls/moonknight-s01e01-dual-dvgy4adn68vamp4-pVqU2wDxqON.mp4/txt/master.txt",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-22T19:40:55.112Z"
+            "added_at": "2026-08-22T19:40:55.112Z",
+            "updated_at": "2026-08-22T19:41:52.549Z"
+          },
+          {
+            "episode": 2,
+            "name": "Kostümü Çağır",
+            "still_path": "/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg",
+            "air_date": "2022-04-06",
+            "runtime": 53,
+            "overview": "Steven, hayatının kendisine ait olmayabileceği gerçeğinden sarsılırken, tanrıların savaşı ufukta belirirken geçmişten gizemli bir ortak ortaya çıkar.",
+            "video": "https://srv12.cdnimages889.shop/hls/moonknight-s01e02-dual-mo41fvp08lb2mp4-uqhQXPDmSkY.mp4/txt/master.txt",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-22T19:41:52.549Z"
           }
         ]
       },
       "added_at": "2026-08-22T19:40:55.112Z",
-      "updated_at": "2026-08-22T19:40:55.112Z"
+      "updated_at": "2026-08-22T19:41:52.549Z"
     }
   ]
 }
