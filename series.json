@@ -82,7 +82,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-22T19:40:55.112Z",
-            "updated_at": "2026-08-22T20:00:03.114Z"
+            "updated_at": "2026-08-22T20:03:07.253Z"
           },
           {
             "episode": 2,
@@ -95,7 +95,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-22T19:41:52.549Z",
-            "updated_at": "2026-08-22T20:00:03.114Z"
+            "updated_at": "2026-08-22T20:03:07.253Z"
           },
           {
             "episode": 3,
@@ -108,7 +108,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-22T19:43:26.874Z",
-            "updated_at": "2026-08-22T20:00:03.114Z"
+            "updated_at": "2026-08-22T20:03:07.253Z"
           },
           {
             "episode": 4,
@@ -121,7 +121,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-22T19:59:27.895Z",
-            "updated_at": "2026-08-22T20:00:03.114Z"
+            "updated_at": "2026-08-22T20:03:07.253Z"
           },
           {
             "episode": 5,
@@ -133,12 +133,25 @@
             "video": "https://srv8.cdnimages2853.shop/hls/moonknight-s01e05-webdl-trdual-tt10234724-bb100pfds4x9mp4-rtb91VsRlSK.mp4/txt/master.txt",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-22T20:00:03.114Z"
+            "added_at": "2026-08-22T20:00:03.114Z",
+            "updated_at": "2026-08-22T20:03:07.253Z"
+          },
+          {
+            "episode": 6,
+            "name": "Tanrılar ve Canavarlar",
+            "still_path": "/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg",
+            "air_date": "2022-05-04",
+            "runtime": 44,
+            "overview": "Moon Knight mücadeleye katılırken Marc, Steven ve Khonshu, Ammit'i durdurmak için birlikte çalışmalıdır.",
+            "video": "https://srv8.cdnimages2691.shop/hls/moonknight-s01e06-webdl-trdual-tt10234724-jdnolv5xpfammp4-LCUEGISObPl.mp4/txt/master.txt",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-22T20:03:07.253Z"
           }
         ]
       },
       "added_at": "2026-08-22T19:40:55.112Z",
-      "updated_at": "2026-08-22T20:00:03.114Z"
+      "updated_at": "2026-08-22T20:03:07.253Z"
     }
   ]
 }
