@@ -272,7 +272,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:11.586Z",
-            "updated_at": "2026-08-23T15:54:17.092Z"
+            "updated_at": "2026-08-23T15:57:20.906Z"
           },
           {
             "episode": 2,
@@ -285,7 +285,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:41.328Z",
-            "updated_at": "2026-08-23T15:54:17.092Z"
+            "updated_at": "2026-08-23T15:57:20.906Z"
           },
           {
             "episode": 3,
@@ -298,7 +298,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:54:17.092Z"
+            "updated_at": "2026-08-23T15:57:20.906Z"
           },
           {
             "episode": 4,
@@ -311,7 +311,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:54:17.092Z"
+            "updated_at": "2026-08-23T15:57:20.906Z"
           },
           {
             "episode": 5,
@@ -324,7 +324,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:54:17.092Z"
+            "updated_at": "2026-08-23T15:57:20.906Z"
           },
           {
             "episode": 6,
@@ -337,7 +337,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:54:17.092Z"
+            "updated_at": "2026-08-23T15:57:20.906Z"
           },
           {
             "episode": 7,
@@ -350,7 +350,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:54:17.092Z"
+            "updated_at": "2026-08-23T15:57:20.906Z"
           },
           {
             "episode": 8,
@@ -362,11 +362,72 @@
             "video": "https://vs21.photomag.biz/v/Gravity.Falls.S02E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:54:17.092Z"
+            "added_at": "2026-08-23T15:54:17.092Z",
+            "updated_at": "2026-08-23T15:57:20.906Z"
+          },
+          {
+            "episode": 9,
+            "name": "Aşk Tanrısı",
+            "still_path": "/qnuJLHlZIib8JJQPOEs2ueKG7sh.jpg",
+            "air_date": "2014-11-26",
+            "runtime": 22,
+            "overview": "Mabel, Gerçek Aşk Tanrısı'ndan aşk iksiri çalar.",
+            "video": "https://vs21.photoflick.org/v/Gravity.Falls.S02E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:57:20.906Z"
+          },
+          {
+            "episode": 10,
+            "name": "Kuzeybatı Malikanesi Gizemi",
+            "still_path": "/AmVE3qPoTp7UG1OFL02Exv4nuwP.jpg",
+            "air_date": "2015-02-16",
+            "runtime": 22,
+            "overview": "Pacifica, Dipper'dan bir hayaleti yakalamasını ister.",
+            "video": "https://vs21.photostack.net/v/Gravity.Falls.S02E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:57:20.906Z"
+          },
+          {
+            "episode": 11,
+            "name": "Göründüğü Gibi Değil",
+            "still_path": "/eYoiGbfGxZC7Tf4K5RyyQ1ygFIK.jpg",
+            "air_date": "2015-03-09",
+            "runtime": 22,
+            "overview": "Hükümet ajanları, Stan'i gözaltına alır.",
+            "video": "https://vs21.photour.org/v/Gravity.Falls.S02E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:57:20.906Z"
+          },
+          {
+            "episode": 12,
+            "name": "İki Stan'in Öyküsü",
+            "still_path": "/s6gHbBsSypA1kOg3CMDE3EdViHx.jpg",
+            "air_date": "2015-07-13",
+            "runtime": 31,
+            "overview": "Stan, nihayet geçmişine dair sırları açıklar.",
+            "video": "https://vs22.photoflick.org/v/Gravity.Falls.S02E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:57:20.906Z"
+          },
+          {
+            "episode": 13,
+            "name": "Zindan, Zindan ve Daha Çok Zindan",
+            "still_path": "/kWRZtBWCKGQszBkUo8U4aD9ict.jpg",
+            "air_date": "2015-08-03",
+            "runtime": 22,
+            "overview": "Dipper, ineklerin sevdiği masa oyununa takıntılı hale gelir.",
+            "video": "https://vs21.photoflix.org/v/Gravity.Falls.S02E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:57:20.906Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T15:54:17.092Z"
+      "updated_at": "2026-08-23T15:57:20.906Z"
     },
     {
       "tmdb_id": 92749,
