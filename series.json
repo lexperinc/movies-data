@@ -272,7 +272,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:11.586Z",
-            "updated_at": "2026-08-23T15:40:41.328Z"
+            "updated_at": "2026-08-23T15:53:51.293Z"
           },
           {
             "episode": 2,
@@ -284,11 +284,72 @@
             "video": "https://vs22.photofunny.org/v/Gravity.Falls.S02E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:40:41.328Z"
+            "added_at": "2026-08-23T15:40:41.328Z",
+            "updated_at": "2026-08-23T15:53:51.293Z"
+          },
+          {
+            "episode": 3,
+            "name": "Golf Savaşı",
+            "still_path": "/e51f1OYEgGvxRQIXakITV78gyDw.jpg",
+            "air_date": "2014-08-11",
+            "runtime": 22,
+            "overview": "Mabel, Pacifica'ya mini golfte meydan okur.",
+            "video": "https://vs22.photour.org/v/Gravity.Falls.S02E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:53:51.293Z"
+          },
+          {
+            "episode": 4,
+            "name": "Çorap Tiyatrosu",
+            "still_path": "/1hXSXAVxuVXPhCxFm8pIPSSkYsd.jpg",
+            "air_date": "2014-09-08",
+            "runtime": 22,
+            "overview": "Mabel, bir kukla gösterisi sahneler.",
+            "video": "https://vs21.photour.org/v/Gravity.Falls.S02E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:53:51.293Z"
+          },
+          {
+            "episode": 5,
+            "name": "Soos ve Gerçek Kız",
+            "still_path": "/zOkP6Y4IL1yQPdmV9AEZ9AURO4v.jpg",
+            "air_date": "2014-09-22",
+            "runtime": 22,
+            "overview": "Soos, kızlarla konuşabilmesine yardımcı olması için bir oyundan medet umar.",
+            "video": "https://vs21.photostack.net/v/Gravity.Falls.S02E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:53:51.293Z"
+          },
+          {
+            "episode": 6,
+            "name": "Küçük Korkunç Hediyeler Dükkanı",
+            "still_path": "/6W8t9Pmnzq7OW0vX3zzqMUTe3SK.jpg",
+            "air_date": "2014-10-04",
+            "runtime": 22,
+            "overview": "Çocuklar, Esrarengiz Kasaba kurallarının dışına çıkarılır.",
+            "video": "https://vs22.photofunny.org/v/Gravity.Falls.S02E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:53:51.293Z"
+          },
+          {
+            "episode": 7,
+            "name": "Görülmeyen Topluluk",
+            "still_path": "/3NNlfwmAu1HSss3WrgDhwO1LisU.jpg",
+            "air_date": "2014-10-27",
+            "runtime": 22,
+            "overview": "Dipper ve Mabel, gizli bir topluluğu keşfeder.",
+            "video": "https://vs22.pictureflix.org/v/Gravity.Falls.S02E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:53:51.293Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T15:40:41.328Z"
+      "updated_at": "2026-08-23T15:53:51.293Z"
     },
     {
       "tmdb_id": 92749,
