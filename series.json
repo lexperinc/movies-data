@@ -259,9 +259,23 @@
             "subtitle_en": "",
             "added_at": "2026-08-23T15:33:38.563Z"
           }
+        ],
+        "s2": [
+          {
+            "episode": 1,
+            "name": "Scary-oke",
+            "still_path": "/p6DUpMpPgKH5TsPVWRii7IEj1Wq.jpg",
+            "air_date": "2014-08-01",
+            "runtime": 22,
+            "overview": "Pines, \"Gizemli Baraka geri döndü\" partisi verir.",
+            "video": "https://vs22.photoflick.org/v/Gravity.Falls.S02E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:40:11.586Z"
+          }
         ]
       },
-      "updated_at": "2026-08-23T15:33:38.563Z"
+      "updated_at": "2026-08-23T15:40:11.586Z"
     },
     {
       "tmdb_id": 92749,
