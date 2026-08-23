@@ -272,7 +272,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:11.586Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 2,
@@ -285,7 +285,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:41.328Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 3,
@@ -298,7 +298,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 4,
@@ -311,7 +311,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 5,
@@ -324,7 +324,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 6,
@@ -337,7 +337,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 7,
@@ -350,7 +350,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 8,
@@ -363,7 +363,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:54:17.092Z",
-            "updated_at": "2026-08-23T15:57:20.906Z"
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 9,
@@ -375,7 +375,8 @@
             "video": "https://vs21.photoflick.org/v/Gravity.Falls.S02E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:57:20.906Z"
+            "added_at": "2026-08-23T15:57:20.906Z",
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 10,
@@ -387,7 +388,8 @@
             "video": "https://vs21.photostack.net/v/Gravity.Falls.S02E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:57:20.906Z"
+            "added_at": "2026-08-23T15:57:20.906Z",
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 11,
@@ -399,7 +401,8 @@
             "video": "https://vs21.photour.org/v/Gravity.Falls.S02E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:57:20.906Z"
+            "added_at": "2026-08-23T15:57:20.906Z",
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 12,
@@ -411,7 +414,8 @@
             "video": "https://vs22.photoflick.org/v/Gravity.Falls.S02E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:57:20.906Z"
+            "added_at": "2026-08-23T15:57:20.906Z",
+            "updated_at": "2026-08-23T15:59:15.544Z"
           },
           {
             "episode": 13,
@@ -423,11 +427,24 @@
             "video": "https://vs21.photoflix.org/v/Gravity.Falls.S02E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:57:20.906Z"
+            "added_at": "2026-08-23T15:57:20.906Z",
+            "updated_at": "2026-08-23T15:59:15.544Z"
+          },
+          {
+            "episode": 14,
+            "name": "Stanchurialı Aday",
+            "still_path": "/7ESTJuUKxSNjiC2dPsnTHLAQo1F.jpg",
+            "air_date": "2015-08-24",
+            "runtime": 22,
+            "overview": "Grunkle Stan, belediye başkanlığına adaylığını koymaya karar verir.",
+            "video": "https://vs16.photoflax.org/v/Gravity.Falls.S02E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:59:15.544Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T15:57:20.906Z"
+      "updated_at": "2026-08-23T15:59:15.544Z"
     },
     {
       "tmdb_id": 92749,
