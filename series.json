@@ -272,7 +272,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:11.586Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 2,
@@ -285,7 +285,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:41.328Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 3,
@@ -298,7 +298,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 4,
@@ -311,7 +311,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 5,
@@ -324,7 +324,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 6,
@@ -337,7 +337,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 7,
@@ -350,7 +350,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 8,
@@ -363,7 +363,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:54:17.092Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 9,
@@ -376,7 +376,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 10,
@@ -389,7 +389,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 11,
@@ -402,7 +402,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 12,
@@ -415,7 +415,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 13,
@@ -428,7 +428,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 14,
@@ -441,7 +441,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:59:15.544Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 15,
@@ -454,7 +454,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T16:00:36.309Z",
-            "updated_at": "2026-08-23T16:00:56.472Z"
+            "updated_at": "2026-08-23T16:02:26.490Z"
           },
           {
             "episode": 16,
@@ -466,11 +466,60 @@
             "video": "https://vs22.photour.org/v/Gravity.Falls.S02E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T16:00:56.472Z"
+            "added_at": "2026-08-23T16:00:56.472Z",
+            "updated_at": "2026-08-23T16:02:26.490Z"
+          },
+          {
+            "episode": 17,
+            "name": "Dipper ve Mabel, Geleceğe Karşı",
+            "still_path": "/bsRf4khXHwUtBpyVvdeaM45wVA1.jpg",
+            "air_date": "2015-10-12",
+            "runtime": 22,
+            "overview": "Mabel, Dipper ile kendisinin 13. doğum gününü planlamaya karar verir.",
+            "video": "https://vs22.pictureflix.org/v/Gravity.Falls.S02E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T16:02:26.490Z"
+          },
+          {
+            "episode": 18,
+            "name": "Xpcveaoqfoxso",
+            "still_path": "/a4v7uSSLkPIbp2NJ6lqmYeKkX6z.jpg",
+            "air_date": "2015-10-26",
+            "runtime": 22,
+            "overview": "Dipper, kendisini bir kıyametin içerisinde esir olmuş halde bulur.",
+            "video": "https://vs22.pictureflix.org/v/Gravity.Falls.S02E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T16:02:26.490Z"
+          },
+          {
+            "episode": 19,
+            "name": "Garipmageddon 2: Gerçeklikten Kaçış",
+            "still_path": "/fhnSQySAEdBpJRyevdBtmmuatbf.jpg",
+            "air_date": "2015-11-23",
+            "runtime": 22,
+            "overview": "Ekip, Mabel'ı garip, yeni bir dünyadan kurtarmalıdır.",
+            "video": "https://vs22.photoflax.org/v/Gravity.Falls.S02E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T16:02:26.490Z"
+          },
+          {
+            "episode": 20,
+            "name": "Garipmageddon 3: Kasabayı Geri Al & Garipmageddon 4: Ormanda Bir Yer",
+            "still_path": "/8C0qgTcnyIPj1yIrTtJUztVwTWS.jpg",
+            "air_date": "2016-02-15",
+            "runtime": 21,
+            "overview": "Gizemli Baraka ekibi, Bill ile yüzleşmek için bir plan yapar. Pines'ın Bill ile son karşılaşması.",
+            "video": "https://vs22.pictureflix.org/v/Gravity.Falls.S02E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T16:02:26.490Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T16:00:56.472Z"
+      "updated_at": "2026-08-23T16:02:26.490Z"
     },
     {
       "tmdb_id": 92749,
