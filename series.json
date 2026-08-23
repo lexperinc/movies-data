@@ -15,7 +15,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:44:41.980Z",
-            "updated_at": "2026-08-23T10:17:25.869Z",
+            "updated_at": "2026-08-23T10:17:47.828Z",
             "still_path": "/ue9a9TEnZ3u5G83QZGxOfh78mg8.jpg",
             "air_date": "2012-06-15",
             "runtime": 22,
@@ -28,7 +28,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:47:41.228Z",
-            "updated_at": "2026-08-23T10:17:25.869Z",
+            "updated_at": "2026-08-23T10:17:47.828Z",
             "still_path": "/9e17jiaO8BihsendSvSVpC6D1uR.jpg",
             "air_date": "2012-06-29",
             "runtime": 23,
@@ -41,7 +41,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-21T16:59:04.754Z",
-            "updated_at": "2026-08-23T10:17:25.869Z",
+            "updated_at": "2026-08-23T10:17:47.828Z",
             "still_path": "/o57KbgV5TDKCMmxEHVNnWFqIycM.jpg",
             "air_date": "2012-06-30",
             "runtime": 23,
@@ -58,7 +58,7 @@
             "air_date": "2012-07-06",
             "runtime": 24,
             "overview": "Mabel, yeni tanıştığı Gideon adlı bir çocukla arkadaş olur. Gideon, kasabanın zengin ve etkili ailelerinden birinin çocuğudur ve kendi gösteri programına sahiptir. Dipper, Gideon'un niyetleri konusunda şüphecidir ve Mabel'i ondan uzak durması konusunda uyarır. Ancak Mabel, Gideon'un gizli bir planı ",
-            "updated_at": "2026-08-23T10:17:25.869Z"
+            "updated_at": "2026-08-23T10:17:47.828Z"
           },
           {
             "episode": 5,
@@ -70,11 +70,24 @@
             "video": "https://vs21.photostack.net/v/Gravity.Falls.S01E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T10:17:25.869Z"
+            "added_at": "2026-08-23T10:17:25.869Z",
+            "updated_at": "2026-08-23T10:17:47.828Z"
+          },
+          {
+            "episode": 6,
+            "name": "Dipper ve Erkeksilik",
+            "still_path": "/cBgCheYpdoP51VUdD4XeZ1y5KWJ.jpg",
+            "air_date": "2012-07-20",
+            "runtime": 24,
+            "overview": "Dipper, kasabadaki diğer erkeklerle uyum sağlamaya çalışırken kendisini erkeksi hissetmediği için zorlanır. Bir grup maskülen karakterle karşılaştığında, onların kabulünü kazanmak için cesaretini ve gücünü ispatlamaya çalışır. Bu süreçte Dipper, gerçek erkeksiliğin ne anlama geldiğini ve kendine güv",
+            "video": "https://vs21.photoflix.org/v/Gravity.Falls.S01E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T10:17:47.828Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T10:17:25.869Z"
+      "updated_at": "2026-08-23T10:17:47.828Z"
     },
     {
       "tmdb_id": 92749,
