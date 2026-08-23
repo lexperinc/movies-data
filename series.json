@@ -272,7 +272,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:11.586Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 2,
@@ -285,7 +285,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:41.328Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 3,
@@ -298,7 +298,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 4,
@@ -311,7 +311,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 5,
@@ -324,7 +324,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 6,
@@ -337,7 +337,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 7,
@@ -350,7 +350,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:53:51.293Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 8,
@@ -363,7 +363,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:54:17.092Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 9,
@@ -376,7 +376,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 10,
@@ -389,7 +389,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 11,
@@ -402,7 +402,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 12,
@@ -415,7 +415,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 13,
@@ -428,7 +428,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:57:20.906Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 14,
@@ -441,7 +441,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:59:15.544Z",
-            "updated_at": "2026-08-23T16:00:36.309Z"
+            "updated_at": "2026-08-23T16:00:56.472Z"
           },
           {
             "episode": 15,
@@ -453,11 +453,24 @@
             "video": "https://vs22.photomag.biz/v/Gravity.Falls.S02E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T16:00:36.309Z"
+            "added_at": "2026-08-23T16:00:36.309Z",
+            "updated_at": "2026-08-23T16:00:56.472Z"
+          },
+          {
+            "episode": 16,
+            "name": "Yol Kenarı Cazibesi",
+            "still_path": "/2YnzSgkdX4xoJUfM4sTC4JndNLY.jpg",
+            "air_date": "2015-09-21",
+            "runtime": 22,
+            "overview": "Stan bir yolculuğa çıkar. Dipper kızlarla flört eder.",
+            "video": "https://vs22.photour.org/v/Gravity.Falls.S02E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T16:00:56.472Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T16:00:36.309Z"
+      "updated_at": "2026-08-23T16:00:56.472Z"
     },
     {
       "tmdb_id": 92749,
