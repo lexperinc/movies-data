@@ -272,7 +272,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:11.586Z",
-            "updated_at": "2026-08-23T15:53:51.293Z"
+            "updated_at": "2026-08-23T15:54:17.092Z"
           },
           {
             "episode": 2,
@@ -285,7 +285,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T15:40:41.328Z",
-            "updated_at": "2026-08-23T15:53:51.293Z"
+            "updated_at": "2026-08-23T15:54:17.092Z"
           },
           {
             "episode": 3,
@@ -297,7 +297,8 @@
             "video": "https://vs22.photour.org/v/Gravity.Falls.S02E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:53:51.293Z"
+            "added_at": "2026-08-23T15:53:51.293Z",
+            "updated_at": "2026-08-23T15:54:17.092Z"
           },
           {
             "episode": 4,
@@ -309,7 +310,8 @@
             "video": "https://vs21.photour.org/v/Gravity.Falls.S02E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:53:51.293Z"
+            "added_at": "2026-08-23T15:53:51.293Z",
+            "updated_at": "2026-08-23T15:54:17.092Z"
           },
           {
             "episode": 5,
@@ -321,7 +323,8 @@
             "video": "https://vs21.photostack.net/v/Gravity.Falls.S02E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:53:51.293Z"
+            "added_at": "2026-08-23T15:53:51.293Z",
+            "updated_at": "2026-08-23T15:54:17.092Z"
           },
           {
             "episode": 6,
@@ -333,7 +336,8 @@
             "video": "https://vs22.photofunny.org/v/Gravity.Falls.S02E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:53:51.293Z"
+            "added_at": "2026-08-23T15:53:51.293Z",
+            "updated_at": "2026-08-23T15:54:17.092Z"
           },
           {
             "episode": 7,
@@ -345,11 +349,24 @@
             "video": "https://vs22.pictureflix.org/v/Gravity.Falls.S02E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:53:51.293Z"
+            "added_at": "2026-08-23T15:53:51.293Z",
+            "updated_at": "2026-08-23T15:54:17.092Z"
+          },
+          {
+            "episode": 8,
+            "name": "Blendin'in Oyunu",
+            "still_path": "/gFaMOl7rw3E6Wbu3jhc3z6zOsht.jpg",
+            "air_date": "2014-11-10",
+            "runtime": 22,
+            "overview": "Blendin Blandin, Dipper ile yüzleşmek için döner.",
+            "video": "https://vs21.photomag.biz/v/Gravity.Falls.S02E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:54:17.092Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T15:53:51.293Z"
+      "updated_at": "2026-08-23T15:54:17.092Z"
     },
     {
       "tmdb_id": 92749,
