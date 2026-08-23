@@ -388,13 +388,31 @@
       "year": "2026",
       "vote_average": 6.73,
       "overview": "Beklenmedik ve acımasız bir düşman ona çok yaklaştığında, Kara Zor-El yani Supergirl, isteksizce beklenmedik bir yoldaşla güçlerini birleştirir ve intikamla adalet için destansı bir yıldızlararası yolculuğa çıkar.",
-      "updated_at": "2026-08-23T16:10:40.306Z",
+      "updated_at": "2026-08-23T19:14:50.927Z",
       "video": "https://vs20.photofunny.org/v/Supergirl.2026.WEB-DL.1080p.DUAL.x264-HDM/master.m3u8",
       "video_720": "",
       "video_1080": "",
       "subtitle_tr": "https://vs20.photofunny.org/v/Supergirl.2026.WEB-DL.1080p.DUAL.x264-HDM/subtitle-tur-2.vtt",
       "subtitle_en": "",
-      "added_at": "2026-08-23T16:06:37.928Z"
+      "added_at": "2026-08-23T16:06:37.928Z",
+      "sources": [
+        {
+          "key": "main",
+          "label": "Ana Link",
+          "url": "https://vs20.photofunny.org/v/Supergirl.2026.WEB-DL.1080p.DUAL.x264-HDM/master.m3u8"
+        }
+      ],
+      "subtitles": [
+        {
+          "key": "tr",
+          "label": "Türkçe",
+          "url": "https://vs20.photofunny.org/v/Supergirl.2026.WEB-DL.1080p.DUAL.x264-HDM/subtitle-tur-2.vtt"
+        }
+      ],
+      "audios": [],
+      "servers": [],
+      "video_480": "",
+      "video_4k": ""
     }
   ]
 }
