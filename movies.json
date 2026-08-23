@@ -423,6 +423,33 @@
       "servers": [],
       "video_480": "",
       "video_4k": ""
+    },
+    {
+      "tmdb_id": 986056,
+      "title": "Thunderbolts*",
+      "poster_path": "/rjubchd3QdoDOZ6zrghHjNB1Rqh.jpg",
+      "year": "2025",
+      "vote_average": 7.301,
+      "overview": "Yelena Belova önderliğinde MCU'nun en beklenmedik kahramanlarından oluşan aykırı bir takım bir araya geliyor. Valentina Allegra de Fontaine'in kurduğu ölümcül bir tuzağa düşen bu dışlanmış karakterler, geçmişlerinin en karanlık yönleriyle yüzleşmek zorunda kalacakları tehlikeli bir göreve çıkacaklar.",
+      "updated_at": "2026-08-23T21:32:59.454Z",
+      "sources": [
+        {
+          "key": "auto",
+          "label": "Otomatik",
+          "url": "https://srv12.cdnimages354.shop/hls/thunderbolts-2025-webdl-trdualmp4-QvJJJUfWHGn1.mp4/txt/master.txt"
+        }
+      ],
+      "subtitles": [],
+      "audios": [],
+      "servers": [],
+      "video": "https://srv12.cdnimages354.shop/hls/thunderbolts-2025-webdl-trdualmp4-QvJJJUfWHGn1.mp4/txt/master.txt",
+      "video_720": "",
+      "video_1080": "",
+      "video_480": "",
+      "video_4k": "",
+      "subtitle_tr": "",
+      "subtitle_en": "",
+      "added_at": "2026-08-23T21:32:59.454Z"
     }
   ]
 }
