@@ -15,7 +15,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:44:41.980Z",
-            "updated_at": "2026-08-23T10:20:06.949Z",
+            "updated_at": "2026-08-23T10:21:02.561Z",
             "still_path": "/ue9a9TEnZ3u5G83QZGxOfh78mg8.jpg",
             "air_date": "2012-06-15",
             "runtime": 22,
@@ -28,7 +28,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:47:41.228Z",
-            "updated_at": "2026-08-23T10:20:06.949Z",
+            "updated_at": "2026-08-23T10:21:02.561Z",
             "still_path": "/9e17jiaO8BihsendSvSVpC6D1uR.jpg",
             "air_date": "2012-06-29",
             "runtime": 23,
@@ -41,7 +41,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-21T16:59:04.754Z",
-            "updated_at": "2026-08-23T10:20:06.949Z",
+            "updated_at": "2026-08-23T10:21:02.561Z",
             "still_path": "/o57KbgV5TDKCMmxEHVNnWFqIycM.jpg",
             "air_date": "2012-06-30",
             "runtime": 23,
@@ -58,7 +58,7 @@
             "air_date": "2012-07-06",
             "runtime": 24,
             "overview": "Mabel, yeni tanıştığı Gideon adlı bir çocukla arkadaş olur. Gideon, kasabanın zengin ve etkili ailelerinden birinin çocuğudur ve kendi gösteri programına sahiptir. Dipper, Gideon'un niyetleri konusunda şüphecidir ve Mabel'i ondan uzak durması konusunda uyarır. Ancak Mabel, Gideon'un gizli bir planı ",
-            "updated_at": "2026-08-23T10:20:06.949Z"
+            "updated_at": "2026-08-23T10:21:02.561Z"
           },
           {
             "episode": 5,
@@ -71,7 +71,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:17:25.869Z",
-            "updated_at": "2026-08-23T10:20:06.949Z"
+            "updated_at": "2026-08-23T10:21:02.561Z"
           },
           {
             "episode": 6,
@@ -84,7 +84,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:17:47.828Z",
-            "updated_at": "2026-08-23T10:20:06.949Z"
+            "updated_at": "2026-08-23T10:21:02.561Z"
           },
           {
             "episode": 7,
@@ -97,7 +97,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:18:58.547Z",
-            "updated_at": "2026-08-23T10:20:06.949Z"
+            "updated_at": "2026-08-23T10:21:02.561Z"
           },
           {
             "episode": 8,
@@ -110,7 +110,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:19:23.553Z",
-            "updated_at": "2026-08-23T10:20:06.949Z"
+            "updated_at": "2026-08-23T10:21:02.561Z"
           },
           {
             "episode": 9,
@@ -122,7 +122,8 @@
             "video": "https://vs21.photoflix.org/v/Gravity.Falls.S01E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T10:20:06.949Z"
+            "added_at": "2026-08-23T10:20:06.949Z",
+            "updated_at": "2026-08-23T10:21:02.561Z"
           },
           {
             "episode": 10,
@@ -134,11 +135,24 @@
             "video": "https://vs21.photostack.net/v/Gravity.Falls.S01E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T10:20:06.949Z"
+            "added_at": "2026-08-23T10:20:06.949Z",
+            "updated_at": "2026-08-23T10:21:02.561Z"
+          },
+          {
+            "episode": 11,
+            "name": "Küçük Dipper",
+            "still_path": "/A3OkkE2jSgqqhmCj8FIVJDDDuGC.jpg",
+            "air_date": "2012-09-28",
+            "runtime": 23,
+            "overview": "Dipper, Mabel'in onu boyuyla ilgili sürekli küçük düşürmesiyle başa çıkmakta zorlanır. Dipper, bir büyü kullanarak kendini büyütmeye karar verir, ancak işler planlandığı gibi gitmez ve olaylar kontrolden çıkar. Mabel ve Dipper, boyutlarının değişmesiyle ilgili yaşadıkları sorunları çözmek zorundadır",
+            "video": "https://vs22.photoflick.org/v/Gravity.Falls.S01E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T10:21:02.561Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T10:20:06.949Z"
+      "updated_at": "2026-08-23T10:21:02.561Z"
     },
     {
       "tmdb_id": 92749,
