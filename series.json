@@ -271,11 +271,24 @@
             "video": "https://vs22.photoflick.org/v/Gravity.Falls.S02E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T15:40:11.586Z"
+            "added_at": "2026-08-23T15:40:11.586Z",
+            "updated_at": "2026-08-23T15:40:41.328Z"
+          },
+          {
+            "episode": 2,
+            "name": "Depoya",
+            "still_path": "/5O0HnQ96hGbwMxKrIJg8CwJHz7E.jpg",
+            "air_date": "2014-08-04",
+            "runtime": 22,
+            "overview": "Dipper'ın dergisi, onu yazarın deposuna götürür.",
+            "video": "https://vs22.photofunny.org/v/Gravity.Falls.S02E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:40:41.328Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T15:40:11.586Z"
+      "updated_at": "2026-08-23T15:40:41.328Z"
     },
     {
       "tmdb_id": 92749,
