@@ -5,7 +5,7 @@
       "name": "Esrarengiz Kasaba",
       "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
       "year": "2012",
-      "vote_average": 8.619,
+      "vote_average": 8.6,
       "seasons": {
         "s1": [
           {
@@ -15,7 +15,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:44:41.980Z",
-            "updated_at": "2026-08-23T10:21:02.561Z",
+            "updated_at": "2026-08-23T15:33:38.563Z",
             "still_path": "/ue9a9TEnZ3u5G83QZGxOfh78mg8.jpg",
             "air_date": "2012-06-15",
             "runtime": 22,
@@ -28,7 +28,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-05-03T21:47:41.228Z",
-            "updated_at": "2026-08-23T10:21:02.561Z",
+            "updated_at": "2026-08-23T15:33:38.563Z",
             "still_path": "/9e17jiaO8BihsendSvSVpC6D1uR.jpg",
             "air_date": "2012-06-29",
             "runtime": 23,
@@ -41,7 +41,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-21T16:59:04.754Z",
-            "updated_at": "2026-08-23T10:21:02.561Z",
+            "updated_at": "2026-08-23T15:33:38.563Z",
             "still_path": "/o57KbgV5TDKCMmxEHVNnWFqIycM.jpg",
             "air_date": "2012-06-30",
             "runtime": 23,
@@ -58,7 +58,7 @@
             "air_date": "2012-07-06",
             "runtime": 24,
             "overview": "Mabel, yeni tanıştığı Gideon adlı bir çocukla arkadaş olur. Gideon, kasabanın zengin ve etkili ailelerinden birinin çocuğudur ve kendi gösteri programına sahiptir. Dipper, Gideon'un niyetleri konusunda şüphecidir ve Mabel'i ondan uzak durması konusunda uyarır. Ancak Mabel, Gideon'un gizli bir planı ",
-            "updated_at": "2026-08-23T10:21:02.561Z"
+            "updated_at": "2026-08-23T15:33:38.563Z"
           },
           {
             "episode": 5,
@@ -71,7 +71,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:17:25.869Z",
-            "updated_at": "2026-08-23T10:21:02.561Z"
+            "updated_at": "2026-08-23T15:33:38.563Z"
           },
           {
             "episode": 6,
@@ -84,7 +84,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:17:47.828Z",
-            "updated_at": "2026-08-23T10:21:02.561Z"
+            "updated_at": "2026-08-23T15:33:38.563Z"
           },
           {
             "episode": 7,
@@ -97,7 +97,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:18:58.547Z",
-            "updated_at": "2026-08-23T10:21:02.561Z"
+            "updated_at": "2026-08-23T15:33:38.563Z"
           },
           {
             "episode": 8,
@@ -110,7 +110,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:19:23.553Z",
-            "updated_at": "2026-08-23T10:21:02.561Z"
+            "updated_at": "2026-08-23T15:33:38.563Z"
           },
           {
             "episode": 9,
@@ -123,7 +123,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:20:06.949Z",
-            "updated_at": "2026-08-23T10:21:02.561Z"
+            "updated_at": "2026-08-23T15:33:38.563Z"
           },
           {
             "episode": 10,
@@ -136,7 +136,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-23T10:20:06.949Z",
-            "updated_at": "2026-08-23T10:21:02.561Z"
+            "updated_at": "2026-08-23T15:33:38.563Z"
           },
           {
             "episode": 11,
@@ -148,11 +148,120 @@
             "video": "https://vs22.photoflick.org/v/Gravity.Falls.S01E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-23T10:21:02.561Z"
+            "added_at": "2026-08-23T10:21:02.561Z",
+            "updated_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 12,
+            "name": "Yaz Cadıları",
+            "still_path": "/cge8YOjXSrwvVZyPdHm4oVzhimV.jpg",
+            "air_date": "2012-10-05",
+            "runtime": 24,
+            "overview": "Gravity Falls kasabasında yaz ortasında Cadılar Bayramı benzeri bir festival olan Summerween kutlanmaktadır. Dipper ve Mabel, festival sırasında Şeker Ya da Şaka yapmaya karar verirler. Ancak, kasabadaki çocukları korkutan ve şekerleri çalan Summerween Trickster adlı bir yaratıkla karşılaşırlar. Dip",
+            "video": "https://vs22.photoflix.org/v/Gravity.Falls.S01E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 13,
+            "name": "Patron Mabel",
+            "still_path": "/qPJgTETJIM2gGjQBdwH6i4Zccnq.jpg",
+            "air_date": "2013-02-15",
+            "runtime": 23,
+            "overview": "Büyük Amca Stan, işleri Mabel'e devretmeye karar verir",
+            "video": "https://vs22.photostack.net/v/Gravity.Falls.S01E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 14,
+            "name": "Dipsiz Çukur!",
+            "still_path": "/c5yEJOGe2b9KDzb94PRd9xdwvMN.jpg",
+            "air_date": "2013-03-01",
+            "runtime": 24,
+            "overview": "Dipper, Mabel, Soos ve Stan, Mystery Shack'in yakınlarındaki dipsiz bir çukuru keşfederler. Meraklarına yenik düşüp çukura atladıklarında, sonsuz bir düşüş yaşarken birbirlerine ilginç ve komik hikayeler anlatırlar. Bu hikayeler, karakterlerin kişiliklerini ve yaşadıkları maceraları daha derinlemesi",
+            "video": "https://vs22.photoflick.org/v/Gravity.Falls.S01E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 15,
+            "name": "Derin Uç",
+            "still_path": "/5GqfHtq5E8w8dKekD1B27CDL5m.jpg",
+            "air_date": "2013-03-15",
+            "runtime": 23,
+            "overview": "Mabel, kasabanın yerel havuzunda çalışan bir cankurtaran olan Merman (Deniz Adamı) ile tanışır ve ona âşık olur. Bu sırada, Dipper, havuzda yaşanan tuhaf olayları araştırırken Büyük Amca Stan ise havuzun yönetimiyle ilgili kurnaz planlar yapar. Mabel, Merman'ı serbest bırakmak için bir plan yapar ve",
+            "video": "https://vs22.photoflax.org/v/Gravity.Falls.S01E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 16,
+            "name": "Carpe Diem (Günü Yaşa)",
+            "still_path": "/zjbwpttSwnj6ObBMyz6hmxfshDn.jpg",
+            "air_date": "2013-04-05",
+            "runtime": 23,
+            "overview": "Dipper ve Mabel, Mystery Shack'in gizli odalarını keşfederken, sihirli bir halı bulurlar. Bu halı, üzerine oturan iki kişinin bedenlerini değiştirir. Dipper ve Mabel, halının gücünü kullanarak birbirlerinin hayatlarını deneyimlerler, ancak bu süreçte birçok zorlukla karşılaşırlar. Soos ve Wendy de b",
+            "video": "https://vs22.photoflax.org/v/Gravity.Falls.S01E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 17,
+            "name": "Çılgın Erkekler",
+            "still_path": "/t1I1uYHVyekaCJFYwv5L3m6yMZ3.jpg",
+            "air_date": "2013-04-19",
+            "runtime": 23,
+            "overview": "Mabel ve arkadaşları, kasabaya gelen ünlü bir erkek pop grubu olan \"Sevgi Ayıları\" konserine gitmeye karar verirler. Mabel, grubun üyelerinden biriyle tanışıp ona âşık olur. Bu sırada Dipper, Büyük Amca Stan'in garip davranışlarını araştırır ve Mystery Shack'te gizlenen bir sırrı ortaya çıkarır. Mab",
+            "video": "https://vs22.pictureflix.org/v/Gravity.Falls.S01E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 18,
+            "name": "Tarih Öncesi Yaratık",
+            "still_path": "/iPq4WcEG6sa1CX3VowVD1jXVV3z.jpg",
+            "air_date": "2013-06-28",
+            "runtime": 24,
+            "overview": "Waddles adlı domuzu tehlikeli bir yaratık tarafından kaçırılınca, Mabel, Dipper, Soos ve Stan, onu kurtarmak için bir maceraya atılırlar. Yolculukları sırasında, yeraltı dünyasında tarih öncesi yaratıklarla karşılaşırlar ve birçok engelle yüzleşirler. Bu sırada, Stan, ekibin liderliğini üstlenir ve ",
+            "video": "https://vs22.photoflax.org/v/Gravity.Falls.S01E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 19,
+            "name": "Rüya Avcısı (1)",
+            "still_path": "/or9cjkwvrSW7B1HvQmlkSi66YMi.jpg",
+            "air_date": "2013-07-12",
+            "runtime": 25,
+            "overview": "Gideon, Mystery Shack'i ele geçirmek için Stan'in düşüncelerine sızmaya karar verir ve bu amaçla bir rüya iblisi olan Bill Cipher'ı çağırır. Dipper, Mabel ve Soos, Stan'in zihnine girerek onu kurtarmaya çalışırlar ve bu süreçte Bill Cipher'ın tehlikeli güçleriyle yüzleşirler. Bu sırada, Dipper ve ek",
+            "video": "https://vs22.photofunny.org/v/Gravity.Falls.S01E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
+          },
+          {
+            "episode": 20,
+            "name": "Gideon Yükseliyor (2)",
+            "still_path": "/1VR84pLvOgD0lO6GUQKygTsaPST.jpg",
+            "air_date": "2013-08-02",
+            "runtime": 26,
+            "overview": "Gideon, Mystery Shack'i ele geçirmeyi başarır ve Stan'in ailesini evlerinden kovar. Dipper, Mabel ve Soos, Mystery Shack'i geri almak için bir plan yaparlar. Bu sırada, Gideon'un gizli planları ortaya çıkar ve kasaba halkı büyük bir tehlike ile karşı karşıya kalır. Dipper ve Mabel, kasabanın kaderin",
+            "video": "https://vs22.photoflick.org/v/Gravity.Falls.S01E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-23T15:33:38.563Z"
           }
         ]
       },
-      "updated_at": "2026-08-23T10:21:02.561Z"
+      "updated_at": "2026-08-23T15:33:38.563Z"
     },
     {
       "tmdb_id": 92749,
