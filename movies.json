@@ -431,7 +431,7 @@
       "year": "2025",
       "vote_average": 7.301,
       "overview": "Yelena Belova önderliğinde MCU'nun en beklenmedik kahramanlarından oluşan aykırı bir takım bir araya geliyor. Valentina Allegra de Fontaine'in kurduğu ölümcül bir tuzağa düşen bu dışlanmış karakterler, geçmişlerinin en karanlık yönleriyle yüzleşmek zorunda kalacakları tehlikeli bir göreve çıkacaklar.",
-      "updated_at": "2026-08-24T10:15:51.189Z",
+      "updated_at": "2026-08-24T10:22:57.811Z",
       "sources": [
         {
           "key": "main",
@@ -454,6 +454,11 @@
           "key": "en-sdh",
           "label": "İngilizce SDH",
           "url": "https://vs18.photomag.biz/v/Thunderbolts.2025.WEB-DL.1080p.DUAL.H.264-HDM/subtitle-eng-3.vtt"
+        },
+        {
+          "key": "en",
+          "label": "İngilizce",
+          "url": "https://hdfilmcehennemi.mobi/vtt/2025/07/QvJJJUfWHGn1-en-8625008-thunderbolts20252160pweb-dlddp51hdrh265-turg_subtitles07eng.vtt"
         }
       ],
       "audios": [],
@@ -470,7 +475,7 @@
       "video_480": "",
       "video_4k": "",
       "subtitle_tr": "https://vs18.photomag.biz/v/Thunderbolts.2025.WEB-DL.1080p.DUAL.H.264-HDM/subtitle-tur-2.vtt",
-      "subtitle_en": "",
+      "subtitle_en": "https://hdfilmcehennemi.mobi/vtt/2025/07/QvJJJUfWHGn1-en-8625008-thunderbolts20252160pweb-dlddp51hdrh265-turg_subtitles07eng.vtt",
       "added_at": "2026-08-23T21:32:59.454Z"
     }
   ]
