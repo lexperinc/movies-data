@@ -526,6 +526,39 @@
       "subtitle_tr": "https://hdfilmcehennemi.mobi/vtt/2024/01/iSdGM44R9FT-tr-6846162-avengersinfinitywar2018bluray1080pdualx264_subtitles02tur.vtt",
       "subtitle_en": "https://hdfilmcehennemi.mobi/vtt/2024/01/iSdGM44R9FT-en-8508088-avengersinfinitywar2018bluray1080pdualx264_subtitles03eng.vtt",
       "added_at": "2026-08-24T20:39:43.658Z"
+    },
+    {
+      "tmdb_id": 299534,
+      "title": "Avengers: Endgame",
+      "poster_path": "/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg",
+      "year": "2019",
+      "vote_average": 8.24,
+      "overview": "Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \"Avengers: Sonsuzluk Savaşı\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Ton",
+      "updated_at": "2026-08-24T20:53:33.537Z",
+      "sources": [
+        {
+          "key": "main",
+          "label": "Ana Link",
+          "url": "https://srv12.cdnimages2727.shop/hls/avengers-4-endgame-2019-bluray-trdualmp4-EBhX1tPbkJN.mp4/txt/master.txt"
+        }
+      ],
+      "subtitles": [],
+      "audios": [],
+      "servers": [
+        {
+          "key": "backup",
+          "label": "Yedek",
+          "url": "https://p1.photofunny.org/v/b9x44wu7wau4/master.m3u8"
+        }
+      ],
+      "video": "https://srv12.cdnimages2727.shop/hls/avengers-4-endgame-2019-bluray-trdualmp4-EBhX1tPbkJN.mp4/txt/master.txt",
+      "video_720": "",
+      "video_1080": "",
+      "video_480": "",
+      "video_4k": "",
+      "subtitle_tr": "",
+      "subtitle_en": "",
+      "added_at": "2026-08-24T20:53:33.537Z"
     }
   ]
 }
