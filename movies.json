@@ -485,7 +485,7 @@
       "year": "2018",
       "vote_average": 8.2,
       "overview": "Kaptan Amerika ve Iron Man'in arasında yaşanan olayların ardından bölünen kahramanlarımız, birbirlerinden uzaklara savrulurlar. Hepsi kendi yandaşlarıyla dünyayı korumaya çalışmaktadır. Ancak dünyanın kaderi bir kez daha tehlikeye girer. Sınırsız bir güç kaynağı olan sonsuzluk taşlarının peşine düşen Thanos, dünyanın gördüğü en büyük tehdittir. İnsanlığın kaderi bir kez daha, insanlık için savaşma",
-      "updated_at": "2026-08-24T20:41:13.978Z",
+      "updated_at": "2026-08-24T20:42:46.283Z",
       "sources": [
         {
           "key": "main",
@@ -498,6 +498,16 @@
           "key": "en",
           "label": "İngilizce",
           "url": "https://hdfilmcehennemi.mobi/vtt/2024/01/iSdGM44R9FT-en-8508088-avengersinfinitywar2018bluray1080pdualx264_subtitles03eng.vtt"
+        },
+        {
+          "key": "tr-forced",
+          "label": "Türkçe Zorunlu",
+          "url": "https://hdfilmcehennemi.mobi/vtt/2024/01/iSdGM44R9FT-forced-2953882-avengersinfinitywar2018bluray1080pdualx264_subtitles01tur.vtt"
+        },
+        {
+          "key": "tr",
+          "label": "Türkçe",
+          "url": "https://hdfilmcehennemi.mobi/vtt/2024/01/iSdGM44R9FT-tr-6846162-avengersinfinitywar2018bluray1080pdualx264_subtitles02tur.vtt"
         }
       ],
       "audios": [],
@@ -507,7 +517,7 @@
       "video_1080": "",
       "video_480": "",
       "video_4k": "",
-      "subtitle_tr": "",
+      "subtitle_tr": "https://hdfilmcehennemi.mobi/vtt/2024/01/iSdGM44R9FT-tr-6846162-avengersinfinitywar2018bluray1080pdualx264_subtitles02tur.vtt",
       "subtitle_en": "https://hdfilmcehennemi.mobi/vtt/2024/01/iSdGM44R9FT-en-8508088-avengersinfinitywar2018bluray1080pdualx264_subtitles03eng.vtt",
       "added_at": "2026-08-24T20:39:43.658Z"
     }
