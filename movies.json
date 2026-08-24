@@ -477,6 +477,33 @@
       "subtitle_tr": "https://vs18.photomag.biz/v/Thunderbolts.2025.WEB-DL.1080p.DUAL.H.264-HDM/subtitle-tur-2.vtt",
       "subtitle_en": "https://hdfilmcehennemi.mobi/vtt/2025/07/QvJJJUfWHGn1-en-8625008-thunderbolts20252160pweb-dlddp51hdrh265-turg_subtitles07eng.vtt",
       "added_at": "2026-08-23T21:32:59.454Z"
+    },
+    {
+      "tmdb_id": 299536,
+      "title": "Avengers: Sonsuzluk Savaşı",
+      "poster_path": "/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg",
+      "year": "2018",
+      "vote_average": 8.2,
+      "overview": "Kaptan Amerika ve Iron Man'in arasında yaşanan olayların ardından bölünen kahramanlarımız, birbirlerinden uzaklara savrulurlar. Hepsi kendi yandaşlarıyla dünyayı korumaya çalışmaktadır. Ancak dünyanın kaderi bir kez daha tehlikeye girer. Sınırsız bir güç kaynağı olan sonsuzluk taşlarının peşine düşen Thanos, dünyanın gördüğü en büyük tehdittir. İnsanlığın kaderi bir kez daha, insanlık için savaşma",
+      "updated_at": "2026-08-24T20:39:43.658Z",
+      "sources": [
+        {
+          "key": "main",
+          "label": "Ana Link",
+          "url": "https://srv12.cdnimages1298.shop/hls/avengers-3-infinitywar-2018-bluray-trdualmp4-iSdGM44R9FT.mp4/txt/master.txt"
+        }
+      ],
+      "subtitles": [],
+      "audios": [],
+      "servers": [],
+      "video": "https://srv12.cdnimages1298.shop/hls/avengers-3-infinitywar-2018-bluray-trdualmp4-iSdGM44R9FT.mp4/txt/master.txt",
+      "video_720": "",
+      "video_1080": "",
+      "video_480": "",
+      "video_4k": "",
+      "subtitle_tr": "",
+      "subtitle_en": "",
+      "added_at": "2026-08-24T20:39:43.658Z"
     }
   ]
 }
