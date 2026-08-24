@@ -640,9 +640,30 @@
             "runtime": 42,
             "overview": "",
             "video": "https://vs21.photomag.biz/v/Sekizinci.Aile.S01E02.1080p.WebDL.x264.Yerli.FilmbolSeries/master.m3u8",
-            "subtitle_tr": "",
+            "subtitle_tr": "https://vs21.photomag.biz/v/Sekizinci.Aile.S01E02.1080p.WebDL.x264.Yerli.FilmbolSeries/subtitle-tur-1.vtt",
             "subtitle_en": "",
-            "added_at": "2026-08-24T19:42:34.488Z"
+            "added_at": "2026-08-24T19:42:34.488Z",
+            "sources": [
+              {
+                "key": "main",
+                "label": "Ana Link",
+                "url": "https://vs21.photomag.biz/v/Sekizinci.Aile.S01E02.1080p.WebDL.x264.Yerli.FilmbolSeries/master.m3u8"
+              }
+            ],
+            "subtitles": [
+              {
+                "key": "tr",
+                "label": "Türkçe",
+                "url": "https://vs21.photomag.biz/v/Sekizinci.Aile.S01E02.1080p.WebDL.x264.Yerli.FilmbolSeries/subtitle-tur-1.vtt"
+              }
+            ],
+            "audios": [],
+            "servers": [],
+            "video_720": "",
+            "video_1080": "",
+            "video_480": "",
+            "video_4k": "",
+            "updated_at": "2026-08-24T20:00:48.305Z"
           }
         ]
       },
