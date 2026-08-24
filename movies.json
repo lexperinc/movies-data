@@ -534,7 +534,7 @@
       "year": "2019",
       "vote_average": 8.24,
       "overview": "Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \"Avengers: Sonsuzluk Savaşı\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Ton",
-      "updated_at": "2026-08-24T20:53:33.537Z",
+      "updated_at": "2026-08-24T21:01:51.205Z",
       "sources": [
         {
           "key": "main",
@@ -542,7 +542,23 @@
           "url": "https://srv12.cdnimages2727.shop/hls/avengers-4-endgame-2019-bluray-trdualmp4-EBhX1tPbkJN.mp4/txt/master.txt"
         }
       ],
-      "subtitles": [],
+      "subtitles": [
+        {
+          "key": "en",
+          "label": "İngilizce",
+          "url": "https://hdfilmcehennemi.mobi/vtt/2024/01/EBhX1tPbkJN-en-6741698-avengersendgame2019bluray1080pdualx264_subtitles03eng.vtt"
+        },
+        {
+          "key": "tr-forced",
+          "label": "Türkçe Zorunlu",
+          "url": "https://hdfilmcehennemi.mobi/vtt/2024/01/EBhX1tPbkJN-forced-3223297-avengersendgame2019bluray1080pdualx264_subtitles01tur.vtt"
+        },
+        {
+          "key": "tr",
+          "label": "Türkçe",
+          "url": "https://hdfilmcehennemi.mobi/vtt/2024/01/EBhX1tPbkJN-tr-6304108-avengersendgame2019bluray1080pdualx264_subtitles02tur.vtt"
+        }
+      ],
       "audios": [],
       "servers": [
         {
@@ -556,8 +572,8 @@
       "video_1080": "",
       "video_480": "",
       "video_4k": "",
-      "subtitle_tr": "",
-      "subtitle_en": "",
+      "subtitle_tr": "https://hdfilmcehennemi.mobi/vtt/2024/01/EBhX1tPbkJN-tr-6304108-avengersendgame2019bluray1080pdualx264_subtitles02tur.vtt",
+      "subtitle_en": "https://hdfilmcehennemi.mobi/vtt/2024/01/EBhX1tPbkJN-en-6741698-avengersendgame2019bluray1080pdualx264_subtitles03eng.vtt",
       "added_at": "2026-08-24T20:53:33.537Z"
     }
   ]
