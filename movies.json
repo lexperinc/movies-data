@@ -485,7 +485,7 @@
       "year": "2018",
       "vote_average": 8.2,
       "overview": "Kaptan Amerika ve Iron Man'in arasında yaşanan olayların ardından bölünen kahramanlarımız, birbirlerinden uzaklara savrulurlar. Hepsi kendi yandaşlarıyla dünyayı korumaya çalışmaktadır. Ancak dünyanın kaderi bir kez daha tehlikeye girer. Sınırsız bir güç kaynağı olan sonsuzluk taşlarının peşine düşen Thanos, dünyanın gördüğü en büyük tehdittir. İnsanlığın kaderi bir kez daha, insanlık için savaşma",
-      "updated_at": "2026-08-24T20:42:46.283Z",
+      "updated_at": "2026-08-24T20:45:45.803Z",
       "sources": [
         {
           "key": "main",
@@ -511,7 +511,13 @@
         }
       ],
       "audios": [],
-      "servers": [],
+      "servers": [
+        {
+          "key": "backup",
+          "label": "Yedek",
+          "url": "https://p1.photomag.biz/v/zm8megwu2bfj/master.m3u8"
+        }
+      ],
       "video": "https://srv12.cdnimages1298.shop/hls/avengers-3-infinitywar-2018-bluray-trdualmp4-iSdGM44R9FT.mp4/txt/master.txt",
       "video_720": "",
       "video_1080": "",
