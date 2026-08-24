@@ -630,7 +630,7 @@
             "subtitle_tr": "",
             "subtitle_en": "",
             "added_at": "2026-08-24T19:12:20.195Z",
-            "updated_at": "2026-08-24T20:01:41.655Z"
+            "updated_at": "2026-08-24T20:06:16.297Z"
           },
           {
             "episode": 2,
@@ -657,7 +657,7 @@
             "video_1080": "",
             "video_480": "",
             "video_4k": "",
-            "updated_at": "2026-08-24T20:03:14.723Z"
+            "updated_at": "2026-08-24T20:06:16.297Z"
           },
           {
             "episode": 3,
@@ -669,12 +669,73 @@
             "video": "https://vs22.photoflax.org/v/Sekizinci.Aile.S01E04.1080p.WebDL.x264.Yerli.FilmbolSeries/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-24T20:01:41.655Z"
+            "added_at": "2026-08-24T20:01:41.655Z",
+            "updated_at": "2026-08-24T20:06:16.297Z"
+          },
+          {
+            "episode": 4,
+            "name": "Canlı Yayın",
+            "still_path": "/topbMachsXRSvfnajQzwvDs9Xou.jpg",
+            "air_date": "2025-11-19",
+            "runtime": 37,
+            "overview": "",
+            "video": "https://vs22.photoflax.org/v/Sekizinci.Aile.S01E04.1080p.WebDL.x264.Yerli.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-24T20:06:16.297Z"
+          },
+          {
+            "episode": 5,
+            "name": "Doğum Günün Kutlu Olsun",
+            "still_path": "/hBdnRbQOFdn4QQHlL2a5lwtoqYZ.jpg",
+            "air_date": "2025-12-24",
+            "runtime": 44,
+            "overview": "",
+            "video": "https://vs1.pictureflix.org/v/Sekizinci.Aile.S01E05.WEB-DL.1080p.H.264-HDM.TR/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-24T20:06:16.297Z"
+          },
+          {
+            "episode": 6,
+            "name": "Kurşun Geçirmez Yelek",
+            "still_path": "/9HMbsJ77JXvcf3ETfGLKhxkUWyY.jpg",
+            "air_date": "2025-12-24",
+            "runtime": 41,
+            "overview": "",
+            "video": "https://vs6.photoflax.org/v/Sekizinci.Aile.S01E06.WEB-DL.1080p.H.264-HDM.TR/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-24T20:06:16.297Z"
+          },
+          {
+            "episode": 7,
+            "name": "Adım Adım",
+            "still_path": "/5bXjJFE8wlfe8owNr4KVr6awyBK.jpg",
+            "air_date": "2025-12-24",
+            "runtime": 41,
+            "overview": "",
+            "video": "https://vs4.photoflax.org/v/Sekizinci.Aile.S01E07.WEB-DL.1080p.H.264-HDM.TR/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-24T20:06:16.297Z"
+          },
+          {
+            "episode": 8,
+            "name": "İzleme Kaydı",
+            "still_path": "/p9XY3bIor9rA7HheHzD2FA0mD9h.jpg",
+            "air_date": "2025-12-24",
+            "runtime": 39,
+            "overview": "",
+            "video": "https://vs3.pictureflix.org/v/Sekizinci.Aile.S01E08.WEB-DL.1080p.H.264-HDM.TR/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-24T20:06:16.297Z"
           }
         ]
       },
       "added_at": "2026-08-24T19:12:20.195Z",
-      "updated_at": "2026-08-24T20:01:41.655Z"
+      "updated_at": "2026-08-24T20:06:16.297Z"
     }
   ]
 }
