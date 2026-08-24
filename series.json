@@ -610,6 +610,31 @@
       },
       "added_at": "2026-08-22T19:40:55.112Z",
       "updated_at": "2026-08-22T20:03:07.253Z"
+    },
+    {
+      "tmdb_id": 304774,
+      "name": "Sekizinci Aile",
+      "poster_path": "/y8NmGRfD3GuhhR8bTj7rXWkOMqk.jpg",
+      "year": "2025",
+      "vote_average": 7.8,
+      "seasons": {
+        "s1": [
+          {
+            "episode": 1,
+            "name": "Sıfırbir Otuzbir",
+            "still_path": "/hNLzBV7ZTSaTw6xRPDTmwzJvMXT.jpg",
+            "air_date": "2025-11-19",
+            "runtime": 42,
+            "overview": "",
+            "video": "https://vs21.photostack.net/v/Sekizinci.Aile.S01E01.1080p.WebDL.x264.Yerli.FilmbolSeries/master.m3u8",
+            "subtitle_tr": "",
+            "subtitle_en": "",
+            "added_at": "2026-08-24T19:12:20.195Z"
+          }
+        ]
+      },
+      "added_at": "2026-08-24T19:12:20.195Z",
+      "updated_at": "2026-08-24T19:12:20.195Z"
     }
   ]
 }
