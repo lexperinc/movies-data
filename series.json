@@ -743,22 +743,7 @@
       "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
       "year": "2022",
       "vote_average": 8.334,
-      "seasons": {
-        "s1": [
-          {
-            "episode": 1,
-            "name": "Çarşamba Günü Doğanlar Dertli Olurlar",
-            "still_path": "/vaoNDFmj7DQH7PpAy9YWgLVylPP.jpg",
-            "air_date": "2022-11-23",
-            "runtime": 60,
-            "overview": "Berbat bir şaka yüzünden okuldan atılan Wednesday, anne ve babasının birbirlerine âşık olduğu yatılı bir okul olan Nevermore Akademisine gönderilir.",
-            "video": "https://srv10.cdnimages1170.shop/hls/wednesday-s01e06-webdl-trdualmp4-ccpXFolUGqR.mp4/txt/master.txt",
-            "subtitle_tr": "",
-            "subtitle_en": "",
-            "added_at": "2026-08-25T15:01:11.485Z"
-          }
-        ]
-      },
+      "seasons": {},
       "added_at": "2026-08-25T15:01:11.485Z",
       "updated_at": "2026-08-25T15:01:11.485Z"
     }
