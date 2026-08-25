@@ -835,12 +835,23 @@
               }
             ],
             "audios": [],
-            "servers": [],
+            "servers": [
+              {
+                "key": "backup",
+                "label": "Yedek",
+                "url": "https://d2.vidload.top/uploads/encode/bfoi8zq8u8hfxm8ultme/master.m3u8"
+              },
+              {
+                "key": "srv2",
+                "label": "Sunucu 2",
+                "url": "https://cdn.fantasicdavay.site/uploads/encode/bfoi8zq8u8hfxm8ultme/master.m3u8"
+              }
+            ],
             "video_720": "",
             "video_1080": "",
             "video_480": "",
             "video_4k": "",
-            "updated_at": "2026-08-25T15:54:34.755Z"
+            "updated_at": "2026-08-25T15:56:07.473Z"
           }
         ]
       },
