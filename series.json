@@ -863,7 +863,27 @@
             "video": "https://vs20.photoflax.org/v/Spider-Noir.S01E03.WEB-DL.1080p.H.264-HDM.DUAL/master.m3u8",
             "subtitle_tr": "",
             "subtitle_en": "",
-            "added_at": "2026-08-25T15:59:24.002Z"
+            "added_at": "2026-08-25T15:59:24.002Z",
+            "sources": [
+              {
+                "key": "main",
+                "label": "Ana Link",
+                "url": "https://vs20.photoflax.org/v/Spider-Noir.S01E03.WEB-DL.1080p.H.264-HDM.DUAL/master.m3u8"
+              },
+              {
+                "key": "360p",
+                "label": "360p",
+                "url": "https://vs20.photoflax.org/v/Spider-Noir.S01E03.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8"
+              }
+            ],
+            "subtitles": [],
+            "audios": [],
+            "servers": [],
+            "video_720": "",
+            "video_1080": "",
+            "video_480": "",
+            "video_4k": "",
+            "updated_at": "2026-08-25T16:00:39.125Z"
           }
         ]
       },
