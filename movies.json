@@ -575,6 +575,33 @@
       "subtitle_tr": "https://hdfilmcehennemi.mobi/vtt/2024/01/EBhX1tPbkJN-tr-6304108-avengersendgame2019bluray1080pdualx264_subtitles02tur.vtt",
       "subtitle_en": "https://hdfilmcehennemi.mobi/vtt/2024/01/EBhX1tPbkJN-en-6741698-avengersendgame2019bluray1080pdualx264_subtitles03eng.vtt",
       "added_at": "2026-08-24T20:53:33.537Z"
+    },
+    {
+      "tmdb_id": 634649,
+      "title": "Örümcek-Adam: Eve Dönüş Yok",
+      "poster_path": "/owp86mH42Un19egdeeZPImufBxN.jpg",
+      "year": "2021",
+      "vote_average": 7.942,
+      "overview": "Kimliği deşifre olan Peter Parker'ın sivil hayatı ile süper kahramanlık sorumlulukları arasındaki çizgi tamamen belirsizleşir. İçinde bulunduğu karmaşayı çözmek için Doctor Strange'den yardım isteyen Peter, durumun kontrolden çıkmasıyla çok daha büyük bir tehlikenin ortasında kalır ve Örümcek Adam olmanın gerçek bedeliyle yüzleşmek zorunda kalır.",
+      "updated_at": "2026-08-27T13:26:29.885Z",
+      "sources": [
+        {
+          "key": "main",
+          "label": "Ana Link",
+          "url": "https://vs3.photofunny.org/v/Spider-Man.No.Way.Home.2021.E.V.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8"
+        }
+      ],
+      "subtitles": [],
+      "audios": [],
+      "servers": [],
+      "video": "https://vs3.photofunny.org/v/Spider-Man.No.Way.Home.2021.E.V.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8",
+      "video_720": "",
+      "video_1080": "",
+      "video_480": "",
+      "video_4k": "",
+      "subtitle_tr": "",
+      "subtitle_en": "",
+      "added_at": "2026-08-27T13:26:29.885Z"
     }
   ]
 }
