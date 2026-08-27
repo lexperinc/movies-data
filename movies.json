@@ -583,7 +583,7 @@
       "year": "2021",
       "vote_average": 7.942,
       "overview": "Kimliği deşifre olan Peter Parker'ın sivil hayatı ile süper kahramanlık sorumlulukları arasındaki çizgi tamamen belirsizleşir. İçinde bulunduğu karmaşayı çözmek için Doctor Strange'den yardım isteyen Peter, durumun kontrolden çıkmasıyla çok daha büyük bir tehlikenin ortasında kalır ve Örümcek Adam olmanın gerçek bedeliyle yüzleşmek zorunda kalır.",
-      "updated_at": "2026-08-27T14:46:38.047Z",
+      "updated_at": "2026-08-27T14:47:19.979Z",
       "sources": [
         {
           "key": "main",
@@ -597,7 +597,13 @@
         }
       ],
       "subtitles": [],
-      "audios": [],
+      "audios": [
+        {
+          "key": "orig",
+          "label": "Orijinal Ses",
+          "url": "https://vs3.photofunny.org/v/Spider-Man.No.Way.Home.2021.E.V.WEB-DL.1080p.DUAL.H.264-HDM/audio-eng-2.m3u8"
+        }
+      ],
       "servers": [],
       "video": "https://vs3.photofunny.org/v/Spider-Man.No.Way.Home.2021.E.V.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8",
       "video_720": "",
