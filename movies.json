@@ -223,9 +223,9 @@
       "year": "2026",
       "vote_average": 8.227,
       "overview": "​Hoşlandığı kızın kalbini kazanmak için gizemli \"Tek Dilek Söğüdü\"nü (One Wish Willow) kıran umutsuz bir romantik, tam da dilediği şeye kavuşur; ancak çok geçmeden bazı arzuların karanlık ve tekinsiz bir bedeli olduğunu keşfeder.",
-      "updated_at": "2026-08-27T14:56:19.067Z",
+      "updated_at": "2026-08-27T14:57:11.704Z",
       "video": "https://srv13.cdnimages470.shop/hls/obsession-2025-webdl-trdual-tt37287335mp4-DF71Qkj6F4G.mp4/txt/master.txt",
-      "video_720": "",
+      "video_720": "https://vs7.photoflix.org/v/Obsession.2025.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8",
       "video_1080": "https://vs7.photoflix.org/v/Obsession.2025.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8",
       "subtitle_tr": "",
       "subtitle_en": "",
@@ -240,6 +240,21 @@
           "key": "1080p",
           "label": "1080p",
           "url": "https://vs7.photoflix.org/v/Obsession.2025.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8"
+        },
+        {
+          "key": "480p",
+          "label": "480p",
+          "url": "https://vs7.photoflix.org/v/Obsession.2025.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8"
+        },
+        {
+          "key": "360p",
+          "label": "360p",
+          "url": "https://vs7.photoflix.org/v/Obsession.2025.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8"
+        },
+        {
+          "key": "720p",
+          "label": "720p",
+          "url": "https://vs7.photoflix.org/v/Obsession.2025.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8"
         }
       ],
       "subtitles": [],
@@ -251,7 +266,7 @@
         }
       ],
       "servers": [],
-      "video_480": "",
+      "video_480": "https://vs7.photoflix.org/v/Obsession.2025.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8",
       "video_4k": ""
     },
     {
